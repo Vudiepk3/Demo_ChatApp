@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Demo_ChatApp</string>
+    <string name="username">Username</string>
+    <string name="todo">TODO</string>
+    <string name="write_message_here">Write message here</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="enter_otp_sent_to_your_phone_number">Enter OTP sent to your phone number</string>
+    <string name="otp">OTP</string>
+    <string name="next">NEXT</string>
+    <string name="resend_otp_in_30_sec">Resend OTP in 30 sec</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="mobile">Mobile</string>
+    <string name="send_otp">Send otp</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="let_me_in">Let me in</string>
+    <string name="search_user">Search User</string>
+    <string name="developed_by_easy_tuto">Developed by easy tuto</string>
+    <string name="hello">Hello</string>
+    <string name="phone">Phone</string>
+    <string name="update_profile">Update profile</string>
+    <string name="logout">Logout</string>
+    <string name="_000000000000">+000000000000</string>
+    <string name="chats">Chats</string>
+    <string name="profile">Profile</string>
+</resources>
